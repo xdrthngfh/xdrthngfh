@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm FDog</h1>
+<h1 align="center">Hi 👋, I'm Phantom</h1>
 <h3 align="center">An epic gamer and TOR enthusiast.</h3>
 
 
